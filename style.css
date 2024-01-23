@@ -1,0 +1,27 @@
+.main {
+    padding: 40px 25px;
+    background-color: aquamarine;
+    text-align: center;
+}
+.inputbox{
+    padding: 15px 35px;
+    font-size: 18px;
+    font-weight: 500;
+}
+button{
+    padding: 15px 35px;
+    cursor: pointer;
+    text-transform: capitalize;
+    font-size: 18px;
+    background:blueviolet;
+    color: white;
+    display: inline-block;
+    border: 1px solid transparent;
+}
+.result_box {
+    width: 180px;
+    margin: 0 auto;
+    padding-top: 18px;
+    line-height: 20px;
+    
+}
